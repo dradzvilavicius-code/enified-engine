@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "enified-engine",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2787caa3-78f7-46a0-9aa6-3d3c8816f99c",
+			"database_name": "d1-enified-engine"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
